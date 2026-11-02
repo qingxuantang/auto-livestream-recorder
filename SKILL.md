@@ -107,3 +107,7 @@ scripts/rag_index.py query "某个主题讲了什么" # 检索，返回相关段
 - 录像：`~/Recordings/raw/`（48h 自动清理，已转写才删）
 - 字幕+文字稿：`~/Recordings/transcripts/<日期>/`
 - 日志：`~/Recordings/process.log`
+
+## 许可协议 / License
+本项目基于 **MIT License** 开源，详见仓库根目录 [`LICENSE`](LICENSE) 文件。
+Released under the **MIT License** — see [`LICENSE`](LICENSE) for details.
